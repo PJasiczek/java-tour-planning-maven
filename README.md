@@ -1,5 +1,5 @@
-# Przewodnik wycieczkowicza
-> Projekt implementacji biblioteki programowej służącej do planowania logistycznego wycieczek (prowiant, wyposażenie).
+# Hiker guide
+> This repository contains implementation project of the program library for logistic planning of trips (provisions, equipment).
 
-## Kontakt
-Stworzony przez [@PJasiczek](https://www.piotrjasiczek.pl/)
+## Contact
+Created by [@PJasiczek](https://www.piotrjasiczek.pl/)
